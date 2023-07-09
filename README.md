@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A simple 2 player TicTacToe game made in Python
+Tic-Tac-Toe is a two player game of the same name made in python using PyGame. 
