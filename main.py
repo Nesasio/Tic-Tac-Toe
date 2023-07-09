@@ -1,7 +1,5 @@
 # Tic-Tac-Toe
 
-# Author: Light
-
 # =========================
 
 
